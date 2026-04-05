@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 120000
 ## Title: |cff0091ed<SharedMedia>|r |cffffa300 <Nolly>|r
 ## IconTexture: Interface\AddOns\SharedMedia_Nollychi\media\icons\nollychi.tga
 ## X-Wago-ID: b6XVbwGp
